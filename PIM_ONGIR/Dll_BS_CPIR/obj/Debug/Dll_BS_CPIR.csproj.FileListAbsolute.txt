@@ -1,0 +1,4 @@
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_BS_CPIR\bin\Debug\Dll_BS_CPIR.dll
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_BS_CPIR\bin\Debug\Dll_BS_CPIR.pdb
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_BS_CPIR\obj\Debug\Dll_BS_CPIR.dll
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_BS_CPIR\obj\Debug\Dll_BS_CPIR.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIM_ONGIR", "PIM_ONGIR\PIM_ONGIR.csproj", "{A4BB918F-A28B-4AA3-88DC-47A7848D6122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll_Uteis_CPIR.cs", "Dll_Uteis.cs\Dll_Uteis_CPIR.cs.csproj", "{40D19CBF-8016-4277-9C45-C4483269B222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll_BS_CPIR", "Dll_BS_CPIR\Dll_BS_CPIR.csproj", "{DA5C241A-A27D-4189-85C8-F0D299867B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll_DB_CPIR", "Dll_DB_CPIR\Dll_DB_CPIR.csproj", "{6D9C0834-B6CB-49DC-98F8-F776C0564A87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD89FA7D-2625-4AED-8941-F4F8242FF8BE}"
+	ProjectSection(SolutionItems) = preProject
+		PIM_ONGIR\bin\Debug\dll_Uteis.dll = PIM_ONGIR\bin\Debug\dll_Uteis.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BB918F-A28B-4AA3-88DC-47A7848D6122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BB918F-A28B-4AA3-88DC-47A7848D6122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BB918F-A28B-4AA3-88DC-47A7848D6122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BB918F-A28B-4AA3-88DC-47A7848D6122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D19CBF-8016-4277-9C45-C4483269B222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D19CBF-8016-4277-9C45-C4483269B222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D19CBF-8016-4277-9C45-C4483269B222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D19CBF-8016-4277-9C45-C4483269B222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5C241A-A27D-4189-85C8-F0D299867B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5C241A-A27D-4189-85C8-F0D299867B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5C241A-A27D-4189-85C8-F0D299867B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5C241A-A27D-4189-85C8-F0D299867B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9C0834-B6CB-49DC-98F8-F776C0564A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9C0834-B6CB-49DC-98F8-F776C0564A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9C0834-B6CB-49DC-98F8-F776C0564A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9C0834-B6CB-49DC-98F8-F776C0564A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

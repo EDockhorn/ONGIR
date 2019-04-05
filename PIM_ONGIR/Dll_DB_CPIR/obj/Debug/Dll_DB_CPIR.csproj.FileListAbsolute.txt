@@ -1,0 +1,7 @@
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\bin\Debug\Dll_DB_CPIR.dll
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\bin\Debug\Dll_DB_CPIR.pdb
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\bin\Debug\Dll_BS_CPIR.dll
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\bin\Debug\Dll_BS_CPIR.pdb
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\obj\Debug\Dll_DB_CPIR.csprojResolveAssemblyReference.cache
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\obj\Debug\Dll_DB_CPIR.dll
+C:\Users\johnn\Documents\Visual Studio 2012\Projects\PIM_ONGIR\Dll_DB_CPIR\obj\Debug\Dll_DB_CPIR.pdb

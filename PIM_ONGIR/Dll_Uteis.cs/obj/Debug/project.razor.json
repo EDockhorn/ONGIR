@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\johnn\\source\\repos\\ONG_IR\\PIM_ONGIR\\Dll_Uteis.cs\\Dll_Uteis_CPIR.cs.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
