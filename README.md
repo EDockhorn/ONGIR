@@ -1,2 +1,2 @@
-# ONGIR
-Sistema C# para atender uma ONG fictícia de inclusão racial - feito para a facu.
+# ONG voltada para a Inclusão Racial
+Sistema desktop feito em C# para atender o último módulo da minha graduação.
